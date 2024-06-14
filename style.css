@@ -37,7 +37,7 @@
 
 #card:hover {
     box-shadow: 12px 12px;
-    /* scale: 1.03; */
+    transform: scale(1.02);
 }
 
 #card #info-card {
